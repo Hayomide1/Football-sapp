@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "FivoSans";
+  src: url("../FivoSans/FivoSans-Regular.otf");
+}
